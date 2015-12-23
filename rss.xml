@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[contact]]></title>
+        <description><![CDATA[contact]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 23 Dec 2015 21:45:37 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[contact 416-826-2075]]></title>
+            <description><![CDATA[<article><h1>contact 416-826-2075</h1><p>email- paulcornwall@gmail.com</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6e39c59591a365ed0b3ebeea5e45d06e295d50d5.jpg"></article>]]></description>
+            <link>undefinedcontact-416-826-2075/index.html</link>
+            <guid isPermaLink="false">25cf3a0d-1a2e-4734-9577-f39b6a5d363c</guid>
+            <pubDate>Wed, 23 Dec 2015 21:45:37 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
