@@ -1,0 +1,28 @@
+name: contact
+favicon: null
+layout_spectrum: 0.5852314203511924
+typography_spectrum: 0.8072863721754402
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.6179186152294278
+  lightness: 0.19699766440317035
+  saturation: 0.7882305739913136
+  rhythmicContrast: 0.25867606047540903
+purpose: []
